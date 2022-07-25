@@ -1,0 +1,54 @@
+Link para dowloand do git: git-scm.com/downloads
+
+o git bash é um terminal extendido para otimizar o uso do git .
+
+----------
+
+Git
+
+Objetos internos (BLOBS, TREES E COMMITS)
+
+echo "conteudo' | git hash-object -- stdin
+
+echo -e 'blob 9\0conteudo' | openssl sha1
+
+(ficou a mesma chave para os dois)
+armazena meta dados do git
+
+as arvores apontam para as bolhas ou outras arvores 
+
+commit junta tudo, dá sentido a operação - aponta para arvore, parente, autor, mensagem e timestamp 
+ ---
+
+entrar na pasta do windows (c:)
+
+ver os arquivos:
+ls (diz list)
+
+para entras na workspace:
+cd workspace/
+
+para criar repositório novo:
+
+mkdir (nome) - aula foi "livro-receitas"
+
+cd livro-receitas para entrar na pasta
+
+para mostrar arquivos ocultos: ls -a
+
+para voltar um nível (voltar pro arquivo anterior) cd ..
+
+**negrito**
+_italico_
+quanto menos # maior e etc
+
+crtl L limpa o git
+
+GIT INIT - cria um depositório
+GIT STATUS - para ver o que aconteceu com o git e as ações 
+
+git remote add origin - https do github
+git remote -v para ver
+
+git push origin master (origin apelido do repositorio)
+e existe o git pull origin master
