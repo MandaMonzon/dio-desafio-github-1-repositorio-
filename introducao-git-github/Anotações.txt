@@ -2,7 +2,7 @@ Link para dowloand do git: git-scm.com/downloads
 
 o git bash é um terminal extendido para otimizar o uso do git .
 
-----------
+----------------------------------------------------------------
 
 Git
 
@@ -50,5 +50,17 @@ GIT STATUS - para ver o que aconteceu com o git e as ações
 git remote add origin - https do github
 git remote -v para ver
 
+git add . (adiciona todos os arquivos no controle de versão local)
+
 git push origin master (origin apelido do repositorio)
 e existe o git pull origin master
+
+Desafio:
+
+Descrição do Desafio
+
+Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, 
+onde você executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub.
+Para isso, tenha em mente todas as dicas e direcionamentos apresentados pelo expert nas aulas. Dessa forma, 
+você poderá compartilhar suas anotações e exercícios em seu próprio repositório.
+Criando assim, o primeiro (de muitos) projetos do seu portfólio ;)
